@@ -1,0 +1,31 @@
+body {
+    background-color: #1E1E2E;
+    color: #F5F5F7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.header-container {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.radio-container {
+    background-color: #2A2A3D;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+.chart-card {
+    background-color: #2A2A3D;
+    padding: 15px;
+    border-radius: 12px;
+    max-width: 950px;
+    margin: 0 auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
